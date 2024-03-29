@@ -1,2 +1,2 @@
 # u24
-u24 offline 
+u24 web deployment
